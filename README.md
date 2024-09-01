@@ -1,4 +1,4 @@
-A Simple Java ecryption application uses a layer of XOR encryption algorithim followed by AES encryption algorithim to make the decryption a bit harder.
+A Simple GUI Java ecryption application uses a layer of XOR encryption algorithim followed by AES encryption algorithim to make the decryption a bit harder.
 <br>
 <br>
 The encryption depends on a key that is provided by the user with can be 16,24 or 32 characters.
