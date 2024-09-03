@@ -1,3 +1,4 @@
+# XOR_AES_EncryptionApp
 A Simple GUI Java text encryption application uses a layer of XOR encryption algorithm followed by AES encryption algorithm to make the decryption a bit harder.
 <br>
 <br>
